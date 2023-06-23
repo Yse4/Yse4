@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'am Ualas Henrique and I'm learning some languagens of programmation.
+I'm learning some languagens of programmation.
 
 I want to share here some of my projects and works!
 
