@@ -1,15 +1,13 @@
-### Hi there 👋
+### Olá 👋
 
-I'm learning some languagens of programmation.
-
-I want to share here some of my projects and works!
+Sou desenvolvedor back-end e vou compartilhar por aqui alguns dos meus projetos.
 
 From 🇧🇷
 ____
 
-## ⚡Learning
+## ⚡ Tecnologias
 
-These are some of the techonologies and tools that I learning:
+Algumas das tecnologias que utilizo no dia a dia:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -19,3 +17,7 @@ These are some of the techonologies and tools that I learning:
 )
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white
 )
+
+#
+
+[![Linkedin: yse](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ualas-henrique-54678827a/)](https://www.linkedin.com/in/ualas-henrique-54678827a/)
