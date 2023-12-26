@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ualas Henrique (Yse), I'm a Software Engineer, and started studying technology in 2023.
+I'm Ualas Henrique, I'm a Software Engineer, and started studying technology in 2023.
 
 I love this area and hope to continue growing as a developer!
 
