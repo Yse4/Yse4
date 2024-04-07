@@ -4,14 +4,14 @@ I'm Ualas Henrique, I'm a Software Engineer, and started studying technology in 
 
 I love this area and hope to continue growing as a developer!
 
-From 🇧🇷
+From 🇧🇷 :earth_americas:
 
 [![Linkedin: yse](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ualas-henrique-54678827a/)](https://www.linkedin.com/in/ualas-henrique-54678827a/)
 ____
 
 ## ⚡ Tecnologias
 
-Algumas das tecnologias que utilizo no dia a dia:
+Some of the technologies I utilize:
 
 Back end: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
